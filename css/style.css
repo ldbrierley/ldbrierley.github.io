@@ -1,0 +1,30 @@
+h1 {
+    margin: 0;
+/*  font-size: 100px;*/
+/* font-family: "Segoe Script";*/
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: blue;
+}
+#headingText{
+    font-size: 50px;
+    margin: 0px 50px 20px 50px;
+    padding: 10px;
+    background-color: saddlebrown;
+}
+
+#mainBody{
+    font-size: 35px;
+    margin: 0px 50px 0 50px ;
+    padding: 5px;
+    background-color: saddlebrown;
+
+    
+}
+
+#mainBody p {
+    margin: 0;
+
+}
