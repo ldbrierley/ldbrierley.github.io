@@ -5,22 +5,22 @@ h1 {
 }
 body{
     margin: 0;
-    padding: 0;
+    padding: 0px;
     background-image: url("../michael-payne-51kZR1C2WsI-unsplash.jpg");
     background-size: cover
 }
 #headingText{
     font-size: 50px;
-    margin: 0px 50px 20px 50px;
+    margin: 0px 0px 0px 0px;
     padding: 0px;
-    background-color: rgb(104, 101, 101);
+    background-color: rgba(104, 101, 101, 0);
 }
 
 #mainBody{
     font-size: 35px;
-    margin: 0px 50px 0 50px ;
+    margin: 0px 0px 0px ;
     padding: 0px;
-    background-color: rgb(104, 101, 101);
+    background-color: rgba(104, 101, 101, 0);
 
     
 }
