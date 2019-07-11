@@ -6,8 +6,10 @@ h1 {
 body{
     margin: 0;
     padding: 0px;
-    background-image: url("../michael-payne-51kZR1C2WsI-unsplash.jpg");
-    background-size: cover
+    background-image: url("../red-mirror-f303VzauP6w-unsplash.jpg");
+    background-size: cover;
+    padding-left: 30px;
+    padding-right: 620px
 }
 #headingText{
     font-size: 50px;
