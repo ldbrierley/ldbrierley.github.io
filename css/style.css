@@ -16,6 +16,7 @@ body{
     padding: 0px;
     background-color: rgb(255, 255, 255);
     width: 500px;
+    opacity: o.6;
 }
 
 #mainBody{
