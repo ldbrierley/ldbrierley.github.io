@@ -15,8 +15,8 @@ body{
     margin: 0px 0px 0px 0px;
     padding: 0px;
     background-color: rgb(255, 255, 255);
-    width: 500px;
-    opacity: o.6;
+    max-width: 500px;
+    box-shadow: 5px 10px 8px;
 }
 
 #mainBody{
@@ -24,7 +24,8 @@ body{
     margin: 0px 0px 0px ;
     padding: 0px;
     background-color: rgb(255, 255, 255);
-    width: 500px;
+    max-width: 500px;
+    box-shadow: 5px 10px 8px;
     
 }
 
