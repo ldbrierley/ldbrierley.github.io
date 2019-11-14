@@ -4,11 +4,12 @@ h1 {
 /* font-family: "Segoe Script";*/
 }
 body{
-    margin: 0px 150px 0px 0px;
+    margin: 0px;
     padding: 0px;
     background-image: url("../red-mirror-f303VzauP6w-unsplash.jpg");
     background-size: cover;
     padding-left: 30px;
+    padding-right: 30px;
 }
 #headingText{
     font-size: 50px;
