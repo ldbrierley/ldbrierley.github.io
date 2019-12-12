@@ -35,3 +35,10 @@ body{
     margin: 0;
 
 }
+#imagebox {
+    margin: 0px;
+    padding: 0px;
+    background-image: url(Graffiti-Berlin-Wall.jpg);
+    max-width: 500px;
+    margin-right: 30px;
+}
